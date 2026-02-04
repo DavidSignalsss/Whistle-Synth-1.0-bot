@@ -28,6 +28,20 @@ Telegram bot that converts your humming into a synthesized melody using pitch de
 </p>
 <p align="center"><em>Figure 2 – Main menu, waveform selection, and settings screen.</em></p>
 
+<p align="center">
+  <img src="img/7.jpg" alt="Step 1" width="220">
+  <img src="img/8.jpg" alt="Step 2" width="220">
+  <img src="img/9.jpg" alt="Step 3" width="220">
+</p>
+<p align="center"><em>Figure 3 – Main menu, waveform selection, and settings screen.</em></p>
+
+<p align="center">
+  <img src="img/10.jpg" alt="Step 1" width="220">
+  <img src="img/11.jpg" alt="Step 2" width="220">
+  <img src="img/12.jpg" alt="Step 3" width="220">
+</p>
+<p align="center"><em>Figure 4 – Main menu, waveform selection, and settings screen.</em></p>
+
 ## Requirements
 
 - Python 3.10+  
