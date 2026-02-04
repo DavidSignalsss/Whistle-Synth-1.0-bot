@@ -14,8 +14,13 @@ Telegram bot that converts your humming into a synthesized melody using pitch de
 
 ## Demo
 
-![Bot main menu](img/1.jpg)
-![Synth settings](img/13.jpg)
+<p align="center">
+  <img src="img/1.jpg" alt="Bot main menu" width="300">
+</p>
+
+<p align="center">
+  <img src="img/13.jpg" alt="Bot main menu" width="300">
+</p>
 
 ## Requirements
 
