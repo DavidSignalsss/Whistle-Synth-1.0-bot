@@ -35,7 +35,7 @@ Telegram bot that converts your Whistle into a synthesized melody using pitch de
   <img src="img/8.jpg" alt="Step 2" width="200">
   <img src="img/9.jpg" alt="Step 3" width="200">
 </p>
-<p align="center"><em>Figure 7, 8 & 9 – Release, Min Cut off, and Max Cut off parameters.</em></p>
+<p align="center"><em>Figure 7, 8 & 9 – Release, Min Cutoff, and Max Cutoff parameters.</em></p>
 
 <p align="center">
   <img src="img/10.jpg" alt="Step 1" width="200">
