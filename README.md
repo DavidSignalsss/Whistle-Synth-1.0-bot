@@ -1,6 +1,6 @@
 # Telegram Whistle Synth Bot
 
-Telegram bot that converts your humming into a synthesized melody using pitch detection (pYIN), digital oscillators, ADSR envelope, dynamic low‑pass filter, and LFO modulation.
+Telegram bot that converts your Whistle into a synthesized melody using pitch detection (pYIN), digital oscillators, ADSR envelope, dynamic low‑pass filter, and LFO modulation.
 
 ## Features
 
