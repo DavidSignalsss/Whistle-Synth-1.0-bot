@@ -48,6 +48,11 @@ Telegram bot that converts your Whistle into a synthesized melody using pitch de
   <img src="img/13.jpg" alt="Step 1" width="200">
 </p>
 <p align="center"><em>Figure 13 – Recorded Audio and Processed Audio.</em></p>
+
+## Demo
+![Demo](./Demo.mp4)
+
+
 ## Requirements
 
 - Python 3.10+  
